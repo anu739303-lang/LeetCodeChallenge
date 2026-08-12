@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0027-remove-element) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
