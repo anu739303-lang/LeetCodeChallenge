@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0068-text-justification) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
