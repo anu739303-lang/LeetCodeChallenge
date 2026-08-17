@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0396-rotate-function) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0396-rotate-function) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0396-rotate-function) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
