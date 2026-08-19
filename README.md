@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0068-text-justification) |
 ## Divide and Conquer
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
