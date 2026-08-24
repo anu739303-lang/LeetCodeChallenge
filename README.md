@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -142,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
