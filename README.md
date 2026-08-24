@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0068-text-justification) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
