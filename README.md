@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0068-text-justification) |
 | [0424-longest-repeating-character-replacement](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
@@ -146,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
