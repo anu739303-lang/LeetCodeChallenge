@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0643-maximum-average-subarray-i](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/anu739303-lang/LeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
